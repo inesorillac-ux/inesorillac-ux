@@ -1,6 +1,6 @@
-# Hi there, I'm [Inés Orillac]! 👋
+# Hi there, I'm Inés Orillac! 👋
 
-![Banner Image](https://unsplash.com/photos/macbook-pro-displaying-computer-icons-o1SKqmgSDbg)
+![Banner Image]([https://unsplash.com/photos/macbook-pro-displaying-computer-icons-o1SKqmgSDbg](https://unsplash.com/photos/macbook-pro-displaying-computer-icons-o1SKqmgSDbg))
 
 ## About Me 🚀
 
